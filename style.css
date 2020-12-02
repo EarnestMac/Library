@@ -1,0 +1,44 @@
+.page-header {
+  font-family: "Fredericka the Great", cursive;
+  background-color: #bfbfbf;
+  letter-spacing: 8px;
+}
+th {
+  background-color: #f05151;
+  text-decoration: underline;
+  font-size: 16px;
+  font-family: "Syne Mono", monospace;
+}
+td {
+  font-family: "Crimson Text", serif;
+}
+select[name="table_length"] {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
+input[type="search"] {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
+.dataTables_length {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
+.dataTables_filter {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
+.dataTables_info {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
+.dataTables_paginate {
+  font-family: "Fredericka the Great", cursive;
+  font-weight: 600;
+  font-size: 14px;
+}
